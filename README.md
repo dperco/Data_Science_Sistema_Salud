@@ -2,7 +2,7 @@
 
 -Este trabajo realiza un estudio sobre consumo de sustancias  en la Argentina ,en el año 2022 .
 -Se basa en la encuesta realizada por el Indec en  Octubre del 20222 , sobre consumo de sustancias ,como alcohol ,tabaco,medicamentos,drogas ,etc
--Tratamos de mostrar que es,  lo que mas se consume ,los motivos y las edades .
+-Tratamos de mostrar lo que mas se consume,los motivos y las edades .
 
 Herramientas  utilizadas :
     Python,
