@@ -5,20 +5,20 @@
 -Tratamos de mostrar quee s lo que mas se consumo ,los motivos y las edades .
 
 Herramientas  utilizadas :
-    Python
-    Google Colab 
-    Excel
-    Jupyter Notebook
+    Python,
+    Google Colab ,
+    Excel,
+    Jupyter Notebook,
     PowerBI
     
-Librerias : Pandas
-            matplotlib
-            seaborn
-            scipy
-            requests
-            bs4
-            scikit-learn
-            numpy
+Librerias : Pandas,
+            matplotlib.
+            seaborn.
+            scipy.
+            requests.
+            bs4.
+            scikit-learn.
+            numpy.
             openpyxl
 
 Algoritmos de ML utilizados:  
